@@ -1,0 +1,86 @@
+2026-06-21 04:17:13,815 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2026-06-21 04:17:13,847 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2026-06-21 04:17:13,848 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2026-06-21 04:17:13,858 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2026-06-21 04:17:13,858 INFO o.a.j.JMeter: Version 5.6.3
+2026-06-21 04:17:13,859 INFO o.a.j.JMeter: java.version=21.0.11
+2026-06-21 04:17:13,859 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2026-06-21 04:17:13,859 INFO o.a.j.JMeter: os.name=Windows 11
+2026-06-21 04:17:13,859 INFO o.a.j.JMeter: os.arch=amd64
+2026-06-21 04:17:13,859 INFO o.a.j.JMeter: os.version=10.0
+2026-06-21 04:17:13,859 INFO o.a.j.JMeter: file.encoding=UTF-8
+2026-06-21 04:17:13,859 INFO o.a.j.JMeter: java.awt.headless=null
+2026-06-21 04:17:13,860 INFO o.a.j.JMeter: Max memory     =1073741824
+2026-06-21 04:17:13,860 INFO o.a.j.JMeter: Available Processors =12
+2026-06-21 04:17:13,872 INFO o.a.j.JMeter: Default Locale=English (EN)
+2026-06-21 04:17:13,872 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2026-06-21 04:17:13,872 INFO o.a.j.JMeter: JMeterHome=C:\Users\matha\OneDrive\Desktop\apache-jmeter-5.6.3
+2026-06-21 04:17:13,872 INFO o.a.j.JMeter: user.dir  =C:\Users\matha\OneDrive\Desktop\apache-jmeter-5.6.3\bin
+2026-06-21 04:17:13,873 INFO o.a.j.JMeter: PWD       =C:\Users\matha\OneDrive\Desktop\apache-jmeter-5.6.3\bin
+2026-06-21 04:17:13,888 INFO o.a.j.JMeter: IP: 192.168.1.6 Name: DESKTOP-TBQEEGJ FullName: DESKTOP-TBQEEGJ.alphionsee.in
+2026-06-21 04:17:13,897 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2026-06-21 04:17:14,122 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2026-06-21 05:04:31,195 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-21 05:04:31,197 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-21 05:04:31,197 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-21 05:04:31,197 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2026-06-21 05:04:31,197 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2026-06-21 05:04:31,197 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2026-06-21 05:05:31,501 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2026-06-21 05:05:31,501 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2026-06-21 05:05:31,501 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2026-06-21 05:05:31,501 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2026-06-21 05:05:53,438 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-06-21 05:05:53,438 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-06-21 05:05:53,439 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-06-21 05:05:53,439 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2026-06-21 05:05:53,439 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2026-06-21 05:05:53,483 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2026-06-21 05:05:53,524 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2026-06-21 05:05:53,524 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Users.
+2026-06-21 05:05:53,525 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-06-21 05:05:53,525 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2026-06-21 05:05:53,527 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-06-21 05:05:53,527 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-06-21 05:05:53,528 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2026-06-21 05:05:53,538 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-TBQEEGJ
+2026-06-21 05:05:53,542 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2026-06-21 05:05:53,652 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2026-06-21 05:05:53,656 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2026-06-21 05:05:53,656 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2026-06-21 05:05:53,745 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2026-06-21 05:05:53,748 INFO o.a.j.u.SSLManager: KeyStore created OK
+2026-06-21 05:05:53,748 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2026-06-21 05:05:54,600 INFO o.a.j.t.JMeterThread: Thread is done: Users 1-1
+2026-06-21 05:05:54,600 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2026-06-21 05:05:54,603 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-06-21 05:05:54,605 INFO o.a.j.s.FileServer: Default base='C:\Users\matha\OneDrive\Desktop\apache-jmeter-5.6.3\bin'
+2026-06-21 05:05:54,605 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2026-06-21 05:09:32,270 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-06-21 05:09:32,270 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-06-21 05:09:32,271 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2026-06-21 05:09:32,302 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2026-06-21 05:09:32,303 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Users.
+2026-06-21 05:09:32,303 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-06-21 05:09:32,303 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2026-06-21 05:09:32,304 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-06-21 05:09:32,304 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-06-21 05:09:32,304 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2026-06-21 05:09:33,214 INFO o.a.j.t.JMeterThread: Thread is done: Users 1-1
+2026-06-21 05:09:33,214 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2026-06-21 05:09:33,216 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-06-21 05:09:33,216 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2026-06-21 05:31:11,959 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2026-06-21 05:31:11,960 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2026-06-21 05:31:11,961 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2026-06-21 05:31:11,998 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2026-06-21 05:31:11,998 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Users.
+2026-06-21 05:31:11,998 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2026-06-21 05:31:11,998 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2026-06-21 05:31:11,999 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2026-06-21 05:31:11,999 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2026-06-21 05:31:11,999 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2026-06-21 05:31:13,810 INFO o.a.j.t.JMeterThread: Thread is done: Users 1-1
+2026-06-21 05:31:13,810 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2026-06-21 05:31:13,812 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2026-06-21 05:31:13,812 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
