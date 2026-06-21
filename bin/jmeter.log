@@ -84,3 +84,7 @@
 2026-06-21 05:31:13,810 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
 2026-06-21 05:31:13,812 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
 2026-06-21 05:31:13,812 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2026-06-21 15:31:26,970 INFO o.a.j.s.FileServer: Set new base='C:\Users\matha\OneDrive\Desktop\apache-jmeter-5.6.3\bin'
+2026-06-21 15:31:27,197 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2026-06-21 15:31:27,205 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2026-06-21 15:31:27,207 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
